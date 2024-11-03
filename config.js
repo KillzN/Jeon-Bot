@@ -23,13 +23,13 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝗞𝗜𝗟𝗟 𝗕𝗢𝗧`
-global.author = '{\n "𝗕𝗢𝗧": {\n   "name": 𝗞𝗜𝗟𝗟 𝗕𝗢𝗧",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
+global.packname = `𝐉𝐄𝐎𝐍 𝐁𝐎𝐓 `
+global.author = '{\n "𝗕𝗢𝗧": {\n   "name": 𝐉𝐄𝐎𝐍 𝐁𝐎𝐓 ",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
 global.wait = 'KILL  ᡣ𐭩'
-global.botname = '𝗞𝗜𝗟𝗟 𝗕𝗢𝗧  ᡣ𐭩'
-global.textbot = `@ineffable.mvrco`
+global.botname = '𝐉𝐄𝐎𝐍 𝐁𝐎𝐓   ᡣ𐭩'
+global.textbot = `@_love.xmjhi `
 global.listo = 'Completado ✯'
-global.namechannel = '𝗞𝗜𝗟𝗟 𝗕𝗢𝗧'
+global.namechannel = '𝐉𝐄𝐎𝐍 𝐁𝐎𝐓 '
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

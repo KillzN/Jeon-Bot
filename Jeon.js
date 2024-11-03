@@ -110,7 +110,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['𝗞𝗜𝗟𝗟 𝗕𝗢𝗧', 'Safari', '2.0.0'] : methodCodeQR ? ['𝗞𝗜𝗟𝗟 𝗕𝗢𝗧', 'Safari', '2.0.0'] : ['Ubuntu', 'Chrome', '110.0.5585.95'],
+browser: opcion == '1' ? ['𝐉𝐄𝐎𝐍 𝐁𝐎𝐓 ', 'Safari', '2.0.0'] : methodCodeQR ? ['𝐉𝐄𝐎𝐍 𝐁𝐎𝐓 ', 'Safari', '2.0.0'] : ['Ubuntu', 'Chrome', '110.0.5585.95'],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
